@@ -1,0 +1,4 @@
+/home/mayank/Desktop/tcpip-ge/build/CMakeFiles/rebuild_cache.dir
+/home/mayank/Desktop/tcpip-ge/build/CMakeFiles/edit_cache.dir
+/home/mayank/Desktop/tcpip-ge/build/CMakeFiles/test.dir
+/home/mayank/Desktop/tcpip-ge/build/CMakeFiles/socket_example.dir

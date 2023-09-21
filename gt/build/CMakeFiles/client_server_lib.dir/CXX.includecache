@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mayank/Desktop/tcpip-ge/gt/client.cpp
+iostream
+-
+cstring
+-
+unistd.h
+-
+arpa/inet.h
+-
+common.h
+/home/mayank/Desktop/tcpip-ge/gt/common.h
+
+/home/mayank/Desktop/tcpip-ge/gt/common.h
+
+/home/mayank/Desktop/tcpip-ge/gt/server.cpp
+iostream
+-
+cstring
+-
+unistd.h
+-
+arpa/inet.h
+-
+common.h
+/home/mayank/Desktop/tcpip-ge/gt/common.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/socket_example.dir/server_1.cpp.o CMakeFiles/socket_example.dir/test1.cpp.o  -o socket_example  /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

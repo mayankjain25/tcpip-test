@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/client_executable.dir/client_main.cpp.o  -o client_executable  libclient_server_lib.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

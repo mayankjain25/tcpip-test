@@ -1,0 +1,7 @@
+/home/mayank/Desktop/tcpip-ge/gt/build/CMakeFiles/rebuild_cache.dir
+/home/mayank/Desktop/tcpip-ge/gt/build/CMakeFiles/client_server_tests.dir
+/home/mayank/Desktop/tcpip-ge/gt/build/CMakeFiles/server_executable.dir
+/home/mayank/Desktop/tcpip-ge/gt/build/CMakeFiles/edit_cache.dir
+/home/mayank/Desktop/tcpip-ge/gt/build/CMakeFiles/test.dir
+/home/mayank/Desktop/tcpip-ge/gt/build/CMakeFiles/client_executable.dir
+/home/mayank/Desktop/tcpip-ge/gt/build/CMakeFiles/client_server_lib.dir
